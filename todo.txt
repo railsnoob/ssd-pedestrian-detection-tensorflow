@@ -1,6 +1,6 @@
 1. Create based model.
 2. Create loss function
-3. Push 1 frame of data through the network.
+3. Push 1 frame of data through the network for object detection.
 4. Push 100 frames of data through the network.
 5. Make sure you can get a 100% accuracy on training set.
 6. Push through 20% of dataset (PASCAL ?)
